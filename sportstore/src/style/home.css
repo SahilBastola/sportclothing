@@ -1,0 +1,81 @@
+/* app.css */
+
+/* Define the orange color */
+:root {
+    --primary-color: #ff5722; /* Orange color */
+  }
+  
+  /* Update the relevant elements with the orange color */
+  .home h1 .text-orange,
+  .bg-orange {
+    background-color: var(--primary-color);
+  }
+  
+  .text-orange {
+    color: orange;
+  }
+  
+  .text-dark {
+    color: #000;
+  }
+  
+  
+  .text-orange {
+    color: var(--primary-color);
+  }
+  
+ /* home.css */
+
+.home {
+  position: relative;
+ 
+}
+
+.home-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+  
+  .rgbs {
+    background-color: #f7f7f7;
+    color: #fff;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-image {
+    height: 200px;
+  }
+  /* home.css */
+
+/* home.css */
+
+.text-bg {
+  background-color: rgba(2, 78, 130, 0.6); /* Adjust the opacity and color as needed */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.text-light {
+  color: white;
+  font-size: 300px; /* Adjust the font size as needed */
+}
+
+.btn {
+  font-size: 200px; /* Adjust the button font size as needed */
+}
+
+
+  
+  
+  /* Add any additional styling for the orange color theme */
+  

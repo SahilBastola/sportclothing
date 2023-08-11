@@ -1,0 +1,32 @@
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+  }
+  
+  .footer .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer .container h5 {
+    margin-bottom: 10px;
+  }
+  
+  .footer .footer-links {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .footer .footer-links li {
+    margin-bottom: 5px;
+  }
+  
+  .footer .footer-links a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer .footer-links a:hover {
+    color: blue;
+  }
+  

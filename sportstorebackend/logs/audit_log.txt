@@ -1,0 +1,9 @@
+2023-08-11T06:57:52.305Z - User ID: 64d5dbf0a96ac3ce3bdbf4f7, Username: man, Action: has registered
+2023-08-11T06:58:37.025Z - User ID: 64d5dc1da96ac3ce3bdbf500, Username: man, Action: has registered
+2023-08-11T06:58:44.464Z - User ID: 64d5db909359b431f304a51e, Username: man, Action: has logged
+2023-08-11T07:03:13.730Z - User ID: 64d5db909359b431f304a51e, Username: man, Action: has logged
+2023-08-11T07:42:45.536Z - User ID: 64d5e675b48bda68b6ca0958, Username: mod, Action: has registered
+2023-08-11T07:43:21.696Z - User ID: 64d5e675b48bda68b6ca0958, Username: mod, Action: has logged
+2023-08-11T07:44:13.255Z - User ID: 64d5e675b48bda68b6ca0958, Username: mod, Action: has logged
+
+2023-08-11T21:08:13.807Z - User ID: 64d5e675b48bda68b6ca0958, Username: mod, Action: has logged

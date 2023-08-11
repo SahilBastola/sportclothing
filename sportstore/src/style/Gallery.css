@@ -1,0 +1,16 @@
+.container {
+    background: #f9f9f9;
+}
+
+.flex-column {
+    max-width: 290px;
+}
+
+img {
+    margin: 5px;
+}
+
+.scale {
+    transform: scaleY(1.05);
+    padding-top: 8px; 
+}

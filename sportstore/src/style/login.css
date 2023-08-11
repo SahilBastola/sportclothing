@@ -1,0 +1,32 @@
+.success {
+    color: green;
+  }
+  
+  .failure {
+    color: red;
+  }
+  
+  .text-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: transparent;
+    border: 2px solid #024E82;
+    color: #024E82;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .text-button:hover {
+    background-color: #024E82;
+    color: white;
+  }
+  
+  .full-height {
+    height: 1200px;
+  }
+  
+  
+
+  

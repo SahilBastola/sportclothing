@@ -1,0 +1,45 @@
+/* Header Styles */
+.custom-header {
+  background-color: #333; /* Change to your preferred background color */
+  color: #fff; /* Change to your preferred text color */
+  padding: 10px 0;
+}
+
+.custom-header .navbar-brand span {
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: bold;
+}
+
+.custom-header .nav-item {
+  margin: 0 10px;
+}
+
+.custom-header .nav-link {
+  color: #fff;
+  transition: color 0.3s;
+}
+
+.custom-header .nav-link:hover {
+  color: #ff9800; /* Change to your preferred link hover color */
+}
+
+.custom-header .active-link {
+  color: #ff5722; /* Change to your preferred active link color */
+  font-weight: bold;
+}
+
+.custom-header .btn {
+  color: #fff;
+  border-color: #ff9800;
+}
+
+.custom-header .btn:hover {
+  background-color: #ff9800; /* Change to your preferred button hover color */
+}
+
+.custom-header .fa-user,
+.custom-header .fa-shopping-cart,
+.custom-header .fa-bars {
+  font-size: 18px; /* Adjust the icon size as needed */
+  margin-right: 8px;
+}

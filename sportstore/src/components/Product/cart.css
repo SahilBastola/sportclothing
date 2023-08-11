@@ -1,0 +1,34 @@
+.cart-page {
+    padding: 2rem 0;
+  }
+  
+  .cart-items {
+    margin-bottom: 2rem;
+  }
+  
+  .cart-item {
+    display: flex;
+    margin-bottom: 1rem;
+  }
+  
+  .cart-item img {
+    width: 10rem;
+    margin-right: 1rem;
+  }
+  
+  .cart-item-details {
+    flex-grow: 1;
+  }
+  
+  .cart-summary {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  @media (max-width: 767px) {
+    .cart-item img {
+      width: 6rem;
+      margin-right: 0.5rem;
+    }
+  }
+  
